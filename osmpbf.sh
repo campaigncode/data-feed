@@ -1,1 +1,0 @@
-osm2pgsql --multi-geometry --hstore --database postgresql://postgres:csmd96IIKZ4VbDt5GZ7r@containers-us-west-165.railway.app:7421/railway --style openstreetmap-carto.style --tag-transform-script openstreetmap-carto.lua --number-processes 8 --prefix ma massachusetts-latest.osm.pbf
